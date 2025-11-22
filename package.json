@@ -6,7 +6,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index1.html",
+    "build": "parcel build index1.html"
   },
   "repository": {
     "type": "git",
